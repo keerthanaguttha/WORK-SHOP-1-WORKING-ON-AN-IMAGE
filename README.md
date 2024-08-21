@@ -2,6 +2,17 @@
 WORKSHOP-1 WORKING ON  AN IMAGE
 ## AIM:
 TO WORK ON AN IMAGE.
+## STEPS :
+```
+1.Load two images of the same size.
+2.Divide each image into four equal regions (quadrants) based on specific row and column coordinates.
+3.Save the eight individual regions, labeling them as R1, R2, R3, R4 for the first image and R5, R6, R7, R8 for the second image.
+4.Swap the regions as follows:
+5.R1 with R8
+6.R2 with R7
+7.Resize the final images to dimensions specified by the last four digits of your registration number, ensuring the number is even.
+
+```
 
 ## PRORAM:
 ### STEP 1:
